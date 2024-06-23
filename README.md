@@ -15,4 +15,4 @@ For more details, check out the [Heroku-specific deploy documentation](http://ww
 * Deploying Metabase version updates to Heroku
 * Troubleshooting
 
-v1.50.6
+v1.48.3
